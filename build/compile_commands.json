@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/root/sg/TextEditor/build",
+  "command": "/usr/bin/g++  -I/root/sg/TextEditor/include -g -std=gnu++20 -o CMakeFiles/MyProject.dir/src/main.cpp.o -c /root/sg/TextEditor/src/main.cpp",
+  "file": "/root/sg/TextEditor/src/main.cpp"
+},
+{
+  "directory": "/root/sg/TextEditor/build",
+  "command": "/usr/bin/g++  -I/root/sg/TextEditor/include -g -std=gnu++20 -o CMakeFiles/MyProject.dir/src/foo.cpp.o -c /root/sg/TextEditor/src/foo.cpp",
+  "file": "/root/sg/TextEditor/src/foo.cpp"
+}
+]

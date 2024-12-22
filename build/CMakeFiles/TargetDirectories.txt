@@ -1,0 +1,2 @@
+/root/sg/TextEditor/build/CMakeFiles/edit_cache.dir
+/root/sg/TextEditor/build/CMakeFiles/rebuild_cache.dir
